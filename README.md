@@ -1,4 +1,4 @@
-# LAB - Class 31
+# LAB - Class 32
 
 ## Project: Django Rest Framework and Docker
 
@@ -14,4 +14,6 @@ Docker -- https://hub.docker.com/_/python
 
 # PORT - 8000
 
-Run -- python manage.py runserver
+# Notes:
+    It doesn't work at 0.0.0.0:8000 but works at localhost:8000.
+
